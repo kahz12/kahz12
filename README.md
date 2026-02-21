@@ -13,6 +13,8 @@
 ## Proyectos actuales
 
 * 🔍 **[ScannUs](https://github.com/kahz12/ScannUs)** - Herramienta avanzada de OSINT — búsqueda multi-motor, generación de dorks con IA, detección de stack tecnológico y scraping de medios
+* 🤖 **[Py-Assistant](https://github.com/kahz12/Py-Assistant)** - Asistente personal autónomo vía Telegram — 62 herramientas integradas, memoria encriptada, domótica con Home Assistant y arquitectura de seguridad auditada
+* ⚙️ **[Automation-Tools](https://github.com/kahz12/Automation-Tools)** - Kit de automatización de tareas cotidianas — organizador de archivos, monitor de precios, resumidor con IA, conversión de imágenes y traducción de documentos
 
 ## En qué estoy metido
 
