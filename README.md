@@ -2,12 +2,7 @@
 
 📍 **Colombia** | 🔍 **OSINT & AI Tool Builder** | 🔐 **Cybersecurity Learner** | 🏠 **Home Automation**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo-python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?style-flat-square&logo-home-assistant&logoColor=white)
-![Termux](https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=android&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini_AI-8E7582?style=flat-square&logo=google&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org) [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev) [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](#) [![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)](https://www.home-assistant.io) [![Termux](https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=android&logoColor=white)](https://termux.dev) [![Gemini](https://img.shields.io/badge/-Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)](https://aistudio.google.com)
 
 > Self-taught developer. C5 spinal cord injury — I run everything remotely from my phone via TeamViewer & KDE Connect.
 > Building tools at the intersection of AI, security, and accessibility.
