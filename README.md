@@ -2,11 +2,11 @@
 
 📍 **Colombia** | 🔍 **OSINT & AI Tool Builder** | 🔐 **Cybersecurity Learner** | 🏠 **Home Automation**
 
-![Python] (https://img.shields.io/badge/-Python-3776AB?style=flat-square& logo-python&logoColor=white)
-![Linux] (https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo =linux&logoColor=black)
-![Home Assistant] (https://img.shields.io/badge/-Home_Assistant-41BDF5 ?style-flat-square&logo-home-assistant&logoColor=white)
-![Termux] (https://img.shields.io/badge/-Termux-000000?style=flat-square& logo=android&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini_AI-8E7582?style=flat-square &logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo-python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?style-flat-square&logo-home-assistant&logoColor=white)
+![Termux](https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=android&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini_AI-8E7582?style=flat-square&logo=google&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 > Self-taught developer. C5 spinal cord injury — I run everything remotely from my phone via TeamViewer & KDE Connect.
