@@ -6,28 +6,23 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-](https://python.org)
-[
+](https://python.org) [
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-](https://go.dev)
-[
+](https://go.dev) [
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-](#)
-[
+](#) [
 
 ![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
 
-](https://www.home-assistant.io)
-[
+](https://www.home-assistant.io) [
 
 ![Termux](https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=android&logoColor=white)
 
-](https://termux.dev)
-[
+](https://termux.dev) [
 
 ![Gemini](https://img.shields.io/badge/-Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
