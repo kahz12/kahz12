@@ -17,7 +17,7 @@
 | 🔍 | **[ScannUs](https://github.com/kahz12/ScannUs)** | OSINT & web intelligence framework. Multi-engine search, AI dork generation, entity graphs, Selenium deep scraping, and evidence export. |
 | 📓 | **[Grimoire-MD](https://github.com/kahz12/Grimore-MD)** | Automated knowledge engine for Markdown vaults. Local LLM tagging, semantic search, RAG with hybrid BM25 + cosine retrieval. Runs 100% offline. |
 | 📡 | **[DroidNet Sentinel](https://github.com/kahz12/DroidNet-Sentinel)** | Network security toolkit for Android via Termux. WiFi scanning, device fingerprinting, ARP spoofing-based blocking, and deauth modules. |
-| ⚙️ | **[Automation-Tools](https://github.com/kahz12/Automation-Tools)** | 13 Python utilities behind a single CLI. File organizer, price monitor, AI summarizer, metadata extractor, duplicate finder, and more. |
+| ⚙️ | **[Automation-Tools](https://github.com/kahz12/Automation-Tools)** | 26 Python utilities behind a single CLI. File organizer, price monitor, AI summarizer, metadata extractor, duplicate finder, and more. |
 
 ---
 
